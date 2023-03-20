@@ -1,16 +1,12 @@
-# color_generation
+# Color generation
 
-A new Flutter project.
+Is an App Contains Two features :
 
-## Getting Started
+1. Display the text "Hello there" in the middle of the screen and after tapping anywhere on the screen, a background color should be changed to a randomly generated color.
 
-This project is a starting point for a Flutter application.
+2. A Floating button that Play& Pause to show an animated generated random colors continuously.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Animated ScreenShot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![animated_screenshot](https://user-images.githubusercontent.com/47080949/226247568-024d0179-817d-4ac6-a3a4-03f9faa1002a.gif)
